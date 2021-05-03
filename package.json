@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.12",
+    "vue-google-signin-button-directive": "^1.0.3",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "name": "kanban-client",
+  "description": "client site to implement agile and DevOps software development.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaidarYusron/kanban-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaidarYusron/kanban-client/issues"
+  },
+  "homepage": "https://github.com/HaidarYusron/kanban-client#readme",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
