@@ -1,7 +1,7 @@
 <template>
   <!-- CARD KANBAN -->
    
-               <div class="col-4 mt-5 " style="max-height: 80vh; overflow-y: auto;"> 
+               <div class="col-3 mt-5 " style="max-height: 80vh; overflow-y: auto;"> 
                     <h3 class="text-center">{{category}}</h3>
                         <TaskCard
                             v-for="task in groupedTask"

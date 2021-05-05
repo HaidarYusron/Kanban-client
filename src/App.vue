@@ -1,6 +1,6 @@
 <template>
 <div>
- 
+  
   <navbar 
     :isLogin="isLogin"
     @changePage="changePage" 
@@ -36,7 +36,7 @@
     @emitEdit = "editData"
   ></editTask>
    
-   
+
 </div>
   
   

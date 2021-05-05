@@ -1,9 +1,11 @@
 <template>
-    <div>
+    <div >
             <!-- LOGIN --> 
         <div class="bg-image" 
-            style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
-            height: 100vh">
+            style="background-image: url('https://trumpwallpapers.com/wp-content/uploads/Pixel-Art-Wallpaper-08-1920-x-1080.png');
+            height: 100vh;
+            background-size: 1500px"
+            >
             <div class="container">
                 <div class="row">
                     <div class="col-4 offset-4 mt-4" >
@@ -12,7 +14,7 @@
                         <div class="form-group" >
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" v-model="email" aria-describedby="emailHelp">
-                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                            
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password</label>

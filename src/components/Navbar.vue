@@ -1,7 +1,7 @@
 <template>
   <div  >
       <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow">
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning shadow">
         <div class="container-fluid">
           <a  class="navbar-brand "  >Kanban KITA</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
